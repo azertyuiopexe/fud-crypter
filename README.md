@@ -1,5 +1,7 @@
 # fud-crypter![68747470733a2f2f692e696d6775722e636f6d2f326b34307952412e706e67](https://github.com/azertyuiopexe/fud-crypter/assets/153385259/0c2fc46a-5961-4983-bacd-ea4a87a92a7f)
 
+
+
 Crypteur de chaux
 Un outil d’obfuscation pour les fichiers .Net + natifs.
 
